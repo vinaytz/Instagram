@@ -86,7 +86,7 @@ export default function Home() {
           </div>
 
           <div className="bg-white border border-gray-300 mt-3 text-sm text-center py-4">
-            Don't have an account?{" "}
+            <p>Don&apos;t have an account?</p>
             <span className="text-blue-500 font-medium cursor-pointer">Sign up</span>
           </div>
 
